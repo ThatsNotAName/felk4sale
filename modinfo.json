@@ -1,6 +1,6 @@
 {
   "Type": "Content",
-  "Name": "Treasure Hunter Can Sell Female Elk",
+  "Name": "Buyable Female Elk",
   "Version": "0.5.0",
   "Description": "Allows the treasure hunter to sell female elk.",
   "ModID": "felk4sale",
@@ -8,4 +8,5 @@
   "Side": "Universal",
   "RequiredOnClient": true,
   "RequiredOnServer": true
+
 }
