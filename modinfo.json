@@ -1,0 +1,20 @@
+{
+  "Type": 1,
+  "TextureSize": 32,
+  "Name": "Treasure Hunter Can Sell Female Elk",
+  "Version": "0.5",
+  "NetworkVersion": null,
+  "IconPath": null,
+  "Description": "Allows the treasure hunter to sell female elk.",
+  "Website": "",
+  "CoreMod": false,
+  "ModID": "felk4sale",
+  "Authors": [
+    "Shayne"
+  ],
+  "Contributors": [],
+  "Side": "Universal",
+  "RequiredOnClient": true,
+  "RequiredOnServer": true,
+  "Dependencies": {}
+}

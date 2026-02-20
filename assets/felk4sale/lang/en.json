@@ -1,0 +1,21 @@
+{
+    "game:creature-*elk-*male-adult-selectionbox-HeadAP": "Head mount spot",
+	"game:creature-*elk-*male-adult-selectionbox-NeckAP": "Pendant spot",
+	"game:creature-*elk-*male-adult-selectionbox-MidAP": "Mid storage",
+	"game:creature-*elk-*male-adult-selectionbox-MidUnderAP": "Blanket spot",
+	"game:creature-*elk-*male-adult-selectionbox-RearAP": "Rear storage",
+	"game:creature-*elk-*male-adult-selectionbox-RearSideAP": "Rear side storage",
+	"game:creature-*elk-*male-adult-selectionbox-RFrontAP": "Front right storage",
+	"game:creature-*elk-*male-adult-selectionbox-LFrontAP": "Front left storage",
+	"game:creature-*elk-*male-adult-selectionbox-FaceAP": "Medallion spot",
+	"game:creature-*elk-*male-adult-selectionbox-TempGear1AP": "Temporal gear storage slot (top)",
+	"game:creature-*elk-*male-adult-selectionbox-TempGear2AP": "Temporal gear storage slot (middle)",
+	"game:creature-*elk-*male-adult-selectionbox-TempGear3AP": "Temporal gear storage slot (bottom)",
+	
+	"game:dialogue-buyelk-called": "Alright, check outside, they should be nearby.",
+	"game:dialogue-buyelk-callelk-thanks": "Thanks, I'll take care of them.",
+	"game:dialogue-buyelk-purchased": "A pleasure doing business with you. Now, let me call them to us!",
+	"game:dialogue-treasurehunter-ihaveanelk": "I have an elk I could part with. They would be a loyal companion to you on your journey. As thanks for your information, I'll part with them for only 100 gears. You'll need a saddle and bridle, too."
+
+	
+}

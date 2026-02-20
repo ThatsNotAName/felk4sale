@@ -1,0 +1,25 @@
+[
+  {
+    "op": "replace",
+    "path": "/components/56/triggerdata/codes",
+    "value": [
+      {
+        "code": "game:tameddeer-elk-male-adult",
+        "weight": 49
+      },
+      {
+        "code": "game:tameddeer-albinoelk-male-adult",
+        "weight": 1
+      },
+      {
+        "code": "game:tameddeer-elk-female-adult",
+        "weight": 49
+      },
+      {
+        "code": "game:tameddeer-albinoelk-female-adult",
+        "weight": 1
+      }
+    ],
+    "file": "game:config/dialogue/treasurehunter.json"
+  }
+]
